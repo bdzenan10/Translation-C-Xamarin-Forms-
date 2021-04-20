@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RYKkxav7iv5MSdYMd+ptjAYcg5s6CzdT0cfAGnpQKh7N3+zodHehooWRNU6uJIpKBsIcxTc7t3CFGmsfIlixw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Focus-06\\source\\repos\\Prevod\\Prevod\\Prevod\\Prevod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Focus-06\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Focus-06\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Focus-06\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

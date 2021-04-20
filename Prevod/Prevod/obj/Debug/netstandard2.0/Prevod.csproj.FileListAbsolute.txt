@@ -1,0 +1,16 @@
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\bin\Debug\netstandard2.0\Prevod.deps.json
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\bin\Debug\netstandard2.0\Prevod.dll
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\bin\Debug\netstandard2.0\ref\Prevod.dll
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\bin\Debug\netstandard2.0\Prevod.pdb
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.AssemblyInfoInputs.cache
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.AssemblyInfo.cs
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.csproj.CoreCompileInputs.cache
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.dll
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\ref\Prevod.dll
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.pdb
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Prevod.csprojAssemblyReference.cache
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Focus-06\source\repos\Prevod\Prevod\Prevod\obj\Debug\netstandard2.0\Page2.xaml.g.cs

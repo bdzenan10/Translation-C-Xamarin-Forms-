@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prevod.Page1" BackgroundImageSource="Background.jpg">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="listview" HasUnevenRows="True" ItemsSource="{Binding sure}" ItemTapped="listview_ItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal"  Padding="10">
+                                <Label Text="{Binding redniBroj}"  FontSize="20" TextColor="White" FontAttributes="Bold"/>
+                                <Label Text="{Binding naslov}" FontSize="20" TextColor="White" FontAttributes="Bold"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
